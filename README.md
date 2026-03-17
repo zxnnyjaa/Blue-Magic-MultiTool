@@ -1,8 +1,12 @@
 <h3 align="center">🟢 BlueMagic-Tools CR@CKED</h3>
+
 50 STARS FOR FULL SRC
+
 Warning❗
 > **DO NOT** Installing BlueMagic-Tools From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
+> 
 Functions⚙️
+
 ```
 M = multi-option (Exemple: [1] TOKEN NUKERS)
 ```
