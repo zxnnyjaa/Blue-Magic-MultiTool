@@ -58,15 +58,25 @@ M = multi-option (Exemple: [1] TOKEN NUKERS)
  
 ```
 Installation⚡
+
 1-Download BlueMagic-Tools.zip
+
 2-Extract File
+
 3-Finally just run BlueMagic_V6.1.exe and wait for it to open.
+
 Enjoy!
+
 Disclaimer❗
+
 BlueMagic-Tools was made for Educational purposes
 This project was created only for good purposes and personal use.
 By using BlueMagic-Tools, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+
 License 📃
+
 Distributed under the MIT License.
+
 Credits 🔗
+
 • Made by: zxnyjaa
